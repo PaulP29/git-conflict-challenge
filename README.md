@@ -1,1 +1,2 @@
-Version du README modifiée en local
+Version finale du README après résolution de conflit
+
