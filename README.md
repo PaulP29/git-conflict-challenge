@@ -1,1 +1,1 @@
-# git-conflict-challenge
+Version du README modifiée en local
